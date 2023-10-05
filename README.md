@@ -60,6 +60,7 @@ Week 12 : Buffer.
 |3|Pre-processing and Data Visualiza- tion|Arnav, Shivesh|
 |4|Feature Extraction|Vishal, Arnav|
 |5|Analysis of Features (Selection, correlation, etc.)|Karan,Shivesh|
+|6| TSNE and PCA |Arnav,Karan|
 |6|Logistic Regression and SVMs|Vishal, Shivesh|
 |7|Decision Trees and Random Forest|Arnav, Vishal, Karan|
 |8|K-Nearest Neighbours and K- Shortest Path|Arnav, Karan|
