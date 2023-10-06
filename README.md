@@ -56,12 +56,14 @@ Week 12 : Buffer.
 
 |Week|Tasks|Team Members|
 | - | - | - |
-|1-2|Data Cleaning|Vishal, Karan|
-|3|Pre-processing and Data Visualiza- tion|Arnav, Shivesh|
+|1-2|Data Cleaning and Pre-Processing|Vishal, Karan|
+|3| Outlier Detection |Shivesh,Arnav,Vishal|
+|3|Data Visualization|Arnav, Shivesh|
 |4|Feature Extraction|Vishal, Arnav|
 |5|Analysis of Features (Selection, correlation, etc.)|Karan,Shivesh|
-|6| TSNE and PCA |Arnav,Karan|
-|6|Logistic Regression and SVMs|Vishal, Shivesh|
+|6|Logistic Regression and Naive Bayes |Shivesh,Karan|
+|6| SVM |Arnav, Vishal|
+|6| ----------Midsem Finish-------------------
 |7|Decision Trees and Random Forest|Arnav, Vishal, Karan|
 |8|K-Nearest Neighbours and K- Shortest Path|Arnav, Karan|
 |9|Performance Monitoring|All members|
