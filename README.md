@@ -57,6 +57,7 @@ Week 12 : Buffer.
 |Week|Tasks|Team Members|
 | - | - | - |
 |1-2|Data Cleaning and Pre-Processing|Vishal, Karan|
+|1-2| Research Paper Review |Vishal,Shivesh|
 |3| Outlier Detection |Shivesh,Arnav,Vishal|
 |3|Data Visualization|Arnav, Shivesh|
 |4|Feature Extraction|Vishal, Arnav|
