@@ -64,13 +64,14 @@ Week 12 : Buffer.
 |5|Analysis of Features (Selection, correlation, etc.)|Karan,Shivesh|
 |6|Logistic Regression and Naive Bayes |Shivesh,Karan|
 |6| SVM |Arnav, Vishal|
-|6| ----------Midsem Finish-------------------
-|7|Decision Trees and Random Forest|Arnav, Vishal, Karan|
-|8|K-Nearest Neighbours and K- Shortest Path|Arnav, Karan|
-|9|Performance Monitoring|All members|
-|10|Hyperparameter Tuning|All Members|
-|11|Report Writing|All Members|
-|12|Buffer|All members|
+|7| Report |Shivesh,Karan|
+|7| Presentation |All Members|
+|7| ----------Midsem Finish-------------------
+|8| Decision Trees and Random Forest (Xgboost in particular) |Arnav, Karan|
+|9| K-Modes |Vishal|
+|10|Multi-Layer Perceptron|Shivesh|
+|10|Hyperparameter Tuning|All Members (for their respective models)|
+|11+12| Final Report Writing + Final Presentation|All Members|
 
 ### 5. Final Outcome
 
