@@ -67,8 +67,8 @@ Week 12 : Buffer.
 |7| Report |Shivesh,Karan|
 |7| Presentation |All Members|
 |7| ----------Midsem Finish-------------------
-|8| Decision Trees and Random Forest (Xgboost in particular) |Arnav, Karan|
-|9| K-Modes |Vishal|
+|8| Decision Trees and Random Forest |Arnav, Karan|
+|9| K-Modes +  Xgboost in particular |Vishal|
 |10|Multi-Layer Perceptron|Shivesh|
 |10|Hyperparameter Tuning|All Members (for their respective models)|
 |11+12| Final Report Writing + Final Presentation|All Members|
