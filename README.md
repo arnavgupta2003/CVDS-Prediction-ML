@@ -48,7 +48,7 @@ Week10: Hyper-parameterTuning, CheckformodelforOver- fittingand Under-fitting.
 
 Week 11 : Report Generation.
 
-Week 12 : Buffer.
+Week 12-13 : Buffer.
 
 ### 4. Individual Tasks
 
@@ -82,4 +82,7 @@ The model is expected to achieve an accuracy of atleast 80% onthetestdataset. Th
 1. Chintan<a name="_page0_x317.25_y583.04"></a> M Bhatt, Parth Patel, Tarang Ghetia, and Pier Luigi Mazzeo. Effective heart disease prediction using machine learning techniques. Algorithms, 16(2):88, 2023.
 2. KarolinaDrozd˙<a name="_page0_x317.25_y617.91"></a> z,˙ KatarzynaNabrdalik, HannaKwiendacz, Mirela Hendel, Anna Olejarz, Andrzej Tomasik, Wojciech Bartman, Jakub Nalepa, Janusz Gumprecht, and Gregory YH Lip. Risk factors for cardiovascular disease in patients with metabolic- associated fatty liver disease: a machine learning approach. Car- diovascular Diabetology, 21(1):240, 2022.
 3. Andre-Pascal Kengne, Sebastien´ Czernichow, Rachel Huxley, Diederick Grobbee, Mark Woodward, Bruce Neal, Sophia Zoun- gas, Mark Cooper, Paul Glasziou, Pavel Hamet, et al. Blood pres- surevariablesandcardiovascularrisk: newfindingsfromadvance. Hypertension, 54(2):399–404, 2009.
+
+
+
 
